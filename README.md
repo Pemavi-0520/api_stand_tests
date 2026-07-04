@@ -19,7 +19,7 @@ Este proyecto es meramente practico para practicar comandos básicos de Python j
 Para ejecutar las pruebas, se recomienda ingresar la siguiente línea en consola:
 
 ```bash
-pytest main.py
+pytest sender_stand_request.py
 ```
 
 > **Nota:** En caso de querer modificar datos de usuario, estos pueden ser modificados en el archivo `data.py` siguiendo los requisitos de API.
