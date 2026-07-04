@@ -29,7 +29,7 @@ pytest sender_stand_request.py
 ## Estructura del proyecto
 
 ```
-├── main.py       # Clases de página y casos de prueba
-├── data.py       # Datos de usuario configurables
-└── README.md     # Documentación del proyecto
+├── sender_stand_request.py       # Clases de página y casos de prueba
+├── data.py                       # Datos de usuario configurables
+└── README.md                     # Documentación del proyecto
 ```
